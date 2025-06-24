@@ -26,6 +26,7 @@ This project reflects common BA use cases in HR, Finance, and Operations teams. 
 ### 2. Table Creation
 Six core tables represent salary and payroll operations:
 
+```sql
 1. Departments Table
   CREATE TABLE departments (
   department_id SERIAL PRIMARY KEY,
@@ -72,6 +73,7 @@ Six core tables represent salary and payroll operations:
   bonus_type VARCHAR(50),
   bonus_amount NUMERIC(10,2),
   bonus_date DATE);
+```
 
 ### 📊 SQL Queries for Business Analysts
 Full query list will be saved as salary_queries.sql in your GitHub repo.
