@@ -76,7 +76,7 @@ Six core tables represent salary and payroll operations:
 ```
 
 ### 📊 SQL Queries for Business Analysts
-Full query list will be saved as [salary_queries.sql](https://github.com/shayisthaabdulla/Salary_Managament_System-SQL-Project-/blob/main/salary_management_queries.sql) in the GitHub repo.
+Full query list will be saved as [salary_management_queries.sql](https://github.com/shayisthaabdulla/Salary_Managament_System-SQL-Project-/blob/main/salary_management_queries.sql) in the GitHub repo.
 - Basic SELECT & Filetering
 - JOINS & Relationships
 - Aggregations & Metrics
