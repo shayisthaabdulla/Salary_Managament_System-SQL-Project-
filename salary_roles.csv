@@ -1,0 +1,7 @@
+role_id,role_name,salary_band
+1,Analyst,40k-60k
+2,Manager,60k-90k
+3,Director,90k-120k
+4,Engineer,70k-100k
+5,Technician,30k-50k
+6,Coordinator,45k-65k
