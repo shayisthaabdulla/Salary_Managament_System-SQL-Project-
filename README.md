@@ -1,9 +1,10 @@
 # 💰 Salary Management System (SQL Project)
 
 ## 📌 Project Overview
-**Project Title**: Salary Management System
-**Level**: Beginner – Intermediate
-**Database**: salary_management_db
+
+**Project Title**: Salary Management System  
+**Level**: Beginner – Intermediate  
+**Database**: `salary_management_db`
 
 This SQL project simulates a corporate salary management system including employees, departments, roles, payroll, and bonuses. It mirrors how Business Analysts work with compensation data to analyze payroll trends, validate pay structures, and report on financial KPIs.
 
@@ -20,8 +21,8 @@ This project reflects common BA use cases in HR, Finance, and Operations teams. 
 
 ## 🏗️ Project Structure
 ### 1. Database Setup
-**Database Name**: salary_management_db
-- PostgreSQL-based relational database simulating a real-world corporate payroll system.
+**Database Name**: 'salary_management_db'
+- Built using PostgreSQL to simulate real-world payroll operations
 
 ### 2. Table Creation
 Six core tables represent salary and payroll operations:
@@ -76,19 +77,19 @@ Six core tables represent salary and payroll operations:
 ```
 
 ### 📊 SQL Queries for Business Analysts
-Full query list will be saved as [salary_management_queries.sql](https://github.com/shayisthaabdulla/Salary_Managament_System-SQL-Project-/blob/main/salary_management_queries.sql) in the GitHub repo.
-- Basic SELECT & Filetering
-- JOINS & Relationships
-- Aggregations & Metrics
-- Data Validatin
-- Subqueries & Case
-- Time Based Performance
+The full list of 30+ real-world queries is saved in [salary_management_queries.sql](https://github.com/shayisthaabdulla/Salary_Managament_System-SQL-Project-/blob/main/salary_management_queries.sql) covering:
+- ✅ Basic SELECT & Filtering
+- 🔗 JOINs & Relationships
+- 📊 Aggregations & Metrics
+- 🧹 Data Validation & Quality
+- 🧠 Subqueries & CASE Logic
+- ⏳ Time-Based Performance Reporting
 
 ### 📈 Key Findings
 - Bonus distribution skewed toward specific roles
-- Salary inconsistencies in some departments flagged for review
-- Monthly payroll costs aligned with hiring spikes
-- Identified inactive employees with recurring payroll entries (HR review)
+- Detected salary inconsistencies in some departments
+- Monthly payroll spikes align with hiring periods
+- Found inactive employees still receiving payroll (needs HR review)
 
 ### 📋 Reporting Extensions
 - Role-Based Compensation Dashboard
